@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = "https://todo-app-jfxw.onrender.com/";
+const baseUrl = "https://todo-app-jfxw.onrender.com";
 
 const getAllToDo = (setToDo) =>{
     axios
